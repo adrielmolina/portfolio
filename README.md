@@ -18,3 +18,4 @@ Here are some data analysis projects that I've done.
   
 > ![Membership Dashboard](/images/data_profession_dashboard/data_prof_dash.png)
 > A dashboard to show breakdown of data from a survey. Survey data provided by [AlexTheAnalyst](https://github.com/AlexTheAnalyst).
+
