@@ -12,4 +12,9 @@ Here are some data analysis projects that I've done.
 
 > ![Membership Dashboard](/images/membership_dashboard/membership_chart.png)
 > An exploratory Power BI dashboard to practice data visualization and dashboard design. The [sample dataset](/data/District.xlsx) contains insurance membership counts by district, city, and membership tiers.
+---
+
+- Data Professional Survey Breakdown &ensp; [![Download PBIX](https://img.shields.io/badge/Download%20-PBIX%20-F2C811?logo=powerbi&logoColor=black)](https://github.com/adrielmolina/portfolio/blob/a897ad0b0c4539ba0a1676c5e2efc52f8a76f5a7/data_prof_survey.pbix)
   
+> ![Membership Dashboard](/images/data_profession_dashboard/data_prof_dash.png)
+> A dashboard to show breakdown of data from a survey. Survey data provided by [AlexTheAnalyst](https://github.com/AlexTheAnalyst).
