@@ -5,6 +5,8 @@ Here are some data analysis projects that I've done.
 ## Python (Pandas)
 
 - [Meralco Bills Analysis](meralco_bills_analysis.ipynb) &ensp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrielmolina/portfolio/blob/main/meralco_bills_analysis.ipynb)
+- [Bank Churn Analysis](bank_churn_analysis.ipynb) &ensp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrielmolina/portfolio/blob/main/bank_churn_analysis.ipynb)
+- [AirBnb Listing Analysis](airbnb_listing_analysis.ipynb) &ensp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrielmolina/portfolio/blob/main/airbnb_listing_analysis.ipynb)
 
 ## Visualization (Power BI)
 
