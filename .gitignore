@@ -1,2 +1,4 @@
 /archive
+/.ipynb_checkpoints
+creds.env
 TODO.md
