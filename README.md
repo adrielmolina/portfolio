@@ -11,6 +11,7 @@ Here are some data analysis projects that I've done.
 ## SQL
 
 - [Restaurant Orders Analysis](restaurant_order_analysis.ipynb) &ensp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrielmolina/portfolio/blob/main/restaurant_order_analysis.ipynb)
+- [Company Layoffs Data Cleaning](layoffs_data_cleaning.ipynb) &ensp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrielmolina/portfolio/blob/main/layoffs_data_cleaning.ipynb)
 
 ## Visualization (Power BI)
 
