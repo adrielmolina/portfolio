@@ -7,6 +7,7 @@ Here are some data analysis projects that I've done.
 - [Meralco Bills Analysis](meralco_bills_analysis.ipynb) &ensp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrielmolina/portfolio/blob/main/meralco_bills_analysis.ipynb)
 - [Bank Churn Analysis](bank_churn_analysis.ipynb) &ensp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrielmolina/portfolio/blob/main/bank_churn_analysis.ipynb)
 - [AirBnb Listing Analysis](airbnb_listing_analysis.ipynb) &ensp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrielmolina/portfolio/blob/main/airbnb_listing_analysis.ipynb)
+- [Coffee Shop Sales Analysis](coffee_shop_sales_analysis.ipynb) &ensp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrielmolina/portfolio/blob/main/coffe_shop_sales_analysis.ipynb)
 
 ## SQL
 
